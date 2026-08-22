@@ -16,7 +16,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/4ernyash/discord-voicebot.git
+git clone https://github.com/kitavix/discord-voicebot.git
 cd discord-voicebot
 ```
 
